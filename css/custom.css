@@ -19,7 +19,7 @@
 {
 	background:rgba(0,0,0,.75);
 	border-radius:5px;
-	color:#FFF;
+	color:#ffffff;
 	display:inline-block;
 	list-style:none;
 	margin:15px 15px 0 0;
@@ -38,8 +38,6 @@
   margin-right: auto;
   width: 50%;
 }
-
-
 
 /* for dropdown menu */
 .dropdown {
@@ -92,7 +90,7 @@
 .titles-resume-one{
     /* font-family: sans-serif; */
     /* margin: 100px auto; */
-    color: #000000;
+    color: #ffffff;
     text-align: center;
     font-size: 30px;
     max-width: 600px;

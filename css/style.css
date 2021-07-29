@@ -1163,6 +1163,21 @@ Overall styles
   color: #ffffff;
 }
 
+.align-center1{
+  text-align: center;
+  color: #d1cdcd;
+}
+
+.synopsis{
+  font-family: "Bodoni Bold";
+  font-style: normal;
+  margin-left: 100px;
+  margin-right: 100px;
+
+  text-align: center;
+  color: #9b9898;
+}
+
 h1 {
   font-family: "Bodoni Bold", Garamond, "Times New Roman", serif;
   font-size: 7vw;
@@ -1193,7 +1208,6 @@ p {
   position: absolute;
   top: 0;
   bottom: 0;
-  /* color: #ffffff; */
   left: 0;
   right: 0;
   margin: auto;

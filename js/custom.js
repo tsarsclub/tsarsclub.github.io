@@ -2,7 +2,8 @@ jQuery(document).ready(function() {
 	
 	// "use strict";
 	// Your custom js code goes here.
-	
+
+
 	// moodboard
 	$(document).ready(function () {
 		var draggable = $('.draggable');
